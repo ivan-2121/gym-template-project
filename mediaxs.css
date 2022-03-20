@@ -1,0 +1,112 @@
+@media (min-width: 481px) and (max-width: 767px) {
+	.p1{
+		font-size: 15px;
+	}
+	.x3{
+		height: 200px;
+		display: flex;
+		align-items: center;
+	}
+	.x4{
+		height: 500px;
+	}
+	.button1{
+		display: none;
+	}
+	.div1{
+		margin-top: 10px;
+	}
+	.p2{
+		display: none;
+	}
+	.p3{
+		font-size: 80px;
+	}
+	.p5{
+		font-size: 16px;
+	}
+	.p6{
+		display: none;
+	}
+	.p7{
+		display: block;
+	}
+	.b1{
+		height: 1800px;
+	}
+	.b2{
+		height: 1800px;
+	}
+	.y1{
+		height: 1800px;
+		display: flex;
+		flex-direction: column;
+		justify-content: flex-end;
+		align-items: center;
+	}
+	.img2{
+		width: 50%;
+		height: 370px;
+		min-width: 300px;	
+	}
+	.img3{
+		width: 50%;
+		height: 370px;
+		margin-top: 30px;
+		min-width: 300px;
+	}
+	.img4{
+		margin-top: 30px;
+		width: 50%;
+		height: 370px;
+		min-width: 300px;	
+	}
+	.div3{
+		width: 76%;
+		height: 800px;
+		left: 12%;
+	}
+	.y3{
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+		height: 400px;
+	}
+	.div4{
+		width: 22%;
+		height: 150px;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		padding: 0;
+	}
+	.img5{
+		width: 100%;
+		height: 100%;
+	}
+	.logo1234{
+		height: 50px;
+		width: 50px;
+	}
+	.div4567{
+		height: 200px;
+	}
+	.pb1{
+		/*display: none;*/
+		font-size: 15px;
+	}
+	.pb2{
+		display: none;
+	}
+	.z1{	
+		height: 500px;
+	}
+	.nkar1{
+		height: 428px;
+		width: 350px;
+	}
+	.nkar2div{
+		height: 600px;
+		width: 70%;
+	}
+}  
